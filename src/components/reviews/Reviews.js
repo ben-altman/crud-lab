@@ -13,7 +13,7 @@ class Reviews extends Component {
   render() {
     return (
       <ul>
-        {console.log(this.props)}
+        {/* {console.log(this.props)} */}
         {this.renderReviews()}
       </ul>
     );
